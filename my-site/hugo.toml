@@ -1,6 +1,6 @@
 baseURL = 'https://minimal-black-demo.netlify.app'
 languageCode = 'en-us'
-title = 'Minimal Black Theme'
+title = 'Mike Bett'
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
@@ -194,21 +194,21 @@ theme = "minimal-black"
   # Hero Section Configuration
   [params.hero]
     badge = "Software Engineer"
-    title = "Hi, I'm Your Name or your interesting title."
+    title = "Hi, I'm Mike Bett."
     role = "Subtitle for title with role perspective"
     summary = "You can write your summary to be displayed here."
     # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
-    location = "City, Country"
-    focus = "Currently focused on Hugo themes & developer experience."
+    location = "Remote"
+    focus = "UK"
     available = true
     availableLabel = "Available for work"
 
     nowLabel = "Quick Facts"
     nowIntro = "Right now I'm mainly:"
     now = [
-      "Building minimal Hugo themes",
-      "Exploring dark-mode design patterns",
-      "Writing about web performance"
+      "Enhancing my GRC knowledge base",
+      "Penetration Testing labs and Security research ",
+      "Academic & Technical Writing"
     ]
 
     [params.hero.primary]
@@ -226,18 +226,18 @@ theme = "minimal-black"
 
   # Social Links
   [[params.social]]
-    label = "GitLab"
-    url = "https://gitlab.com/jimchr12"
+    label = "Github"
+    url = "https://github.com/digoloh"
     icon = "fa-brands fa-gitlab"
 
   [[params.social]]
     label = "LinkedIn"
-    url = "https://www.linkedin.com/in/jimchristopoulos-542512221/"
+    url = "https://www.linkedin.com/in/mikebett/"
     icon = "fa-brands fa-linkedin-in"
 
   [[params.social]]
     label = "Email"
-    url = "mailto:you@example.com"
+    url = "mailto:mikebett@live.com"
     icon = "fa-regular fa-envelope"
 
   # Analytics Configuration
